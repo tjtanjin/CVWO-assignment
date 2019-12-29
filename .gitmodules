@@ -1,0 +1,6 @@
+[submodule "codes/todo_website"]
+	path = codes/todo_website
+	url = https://github.com/tjtanjin/todo_website
+[submodule "codes/todo_api"]
+	path = codes/todo_api
+	url = https://github.com/tjtanjin/todo_api
