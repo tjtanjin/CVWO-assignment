@@ -7,9 +7,9 @@ Tan Jin
 ```
 A0199565H
 ```
-#### Heroku Link
+#### Application Link
 ```
-https://project-todo-manager.herokuapp.com
+https://todo-manager.tjtanjin.com
 ```
 #### Frontend Code
 ```
