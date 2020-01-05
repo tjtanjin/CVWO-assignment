@@ -11,6 +11,10 @@ A0199565H
 ```
 https://todo-manager.tjtanjin.com
 ```
+#### User Guide
+```
+https://github.com/tjtanjin/todo_website/wiki/User-Guide
+```
 #### Frontend Code
 ```
 https://github.com/tjtanjin/todo_website
