@@ -11,7 +11,7 @@ A0199565H
 ```
 https://todo-manager.tjtanjin.com
 ```
-#### User Guide
+#### User Guide (Outdated - New features yet to be included)
 ```
 https://github.com/tjtanjin/todo_website/wiki/User-Guide
 ```
@@ -22,4 +22,8 @@ https://github.com/tjtanjin/todo_website
 #### Backend Code
 ```
 https://github.com/tjtanjin/todo_api
+```
+#### Telegram Code
+```
+https://github.com/tjtanjin/todo_bot
 ```
