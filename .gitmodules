@@ -4,3 +4,6 @@
 [submodule "codes/todo_api"]
 	path = codes/todo_api
 	url = https://github.com/tjtanjin/todo_api
+[submodule "codes/todo_bot"]
+	path = codes/todo_bot
+	url = https://github.com/tjtanjin/todo_bot
