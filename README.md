@@ -37,6 +37,12 @@ Todo Manager is composed of 3 small projects that are listed below:
   <img height="150" width="150" src="https://img.icons8.com/color/240/000000/bootstrap.png" />
 </p>
 
+##### Deployed on:
+<p align="center">
+  <img height="150" width="150" src="https://www.netlify.com/img/press/logos/logomark.png" />
+</p>
+
+
 ##### Project Repository
 ```
 https://github.com/tjtanjin/todo_website
@@ -49,6 +55,11 @@ https://github.com/tjtanjin/todo_website
   <img height="150" width="150" src="https://img.icons8.com/color/240/000000/postgreesql.png" />
 </p>
 
+##### Deployed on:
+<p align="center">
+  <img height="150" width="150" src="https://img.icons8.com/color/240/000000/heroku.png" />
+</p>
+
 ##### Project Repository
 ```
 https://github.com/tjtanjin/todo_api
@@ -58,6 +69,11 @@ https://github.com/tjtanjin/todo_api
 
 <p align="center">
   <img height="150" width="150" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"/>
+</p>
+
+##### Deployed on:
+<p align="center">
+  <img height="150" width="150" src="https://i.dlpng.com/static/png/404295_thumb.png" />
 </p>
 
 ##### Project Repository
