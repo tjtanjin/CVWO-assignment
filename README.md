@@ -12,7 +12,7 @@
 * [Technologies](#technologies)
 * [Team](#team)
 * [Contributing](#contributing)
-* [FAQ](#faq)
+* [Others](#others)
 ### Introduction
 Todo Manager is a simple web application that allows users to track and organize their tasks. Designed with simplicity and efficiency in mind, Todo Manager strives to provide an excellent experience for its users.
 
