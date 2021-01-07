@@ -81,7 +81,7 @@ https://github.com/tjtanjin/todo_api
 https://github.com/tjtanjin/todo_bot
 ```
 ### Team
-* [Tan Jin](#https://github.com/tjtanjin)
+* [Tan Jin](https://github.com/tjtanjin)
 
 ### Contributing
 If you have code to contribute to the project, open a pull request and describe clearly the changes and what they are intended to do (enhancement, bug fixes etc). Alternatively, you may simply raise bugs or suggestions by opening an issue.
